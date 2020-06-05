@@ -1,0 +1,6 @@
+/bin/
+build/
+src/org/apache/xalan/xsltc/compiler/XPathParser.java
+src/org/apache/xalan/xsltc/compiler/XPathLexer.java
+src/org/apache/xalan/xsltc/compiler/sym.java
+src/org/apache/xalan/processor/XSLProcessorVersion.java
